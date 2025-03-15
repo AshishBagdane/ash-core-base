@@ -1,4 +1,4 @@
-package dev.ash.core.base.eh.core;
+package com.ashishbagdane.lib.base.eh.core;
 
 import lombok.Getter;
 

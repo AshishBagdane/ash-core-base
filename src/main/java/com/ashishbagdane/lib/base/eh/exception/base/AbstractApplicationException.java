@@ -1,8 +1,8 @@
-package dev.ash.core.base.eh.exception.base;
+package com.ashishbagdane.lib.base.eh.exception.base;
 
-import dev.ash.core.base.eh.core.ErrorCode;
-import dev.ash.core.base.eh.core.ErrorContext;
-import dev.ash.core.base.eh.core.ErrorMessage;
+import com.ashishbagdane.lib.base.eh.core.ErrorCode;
+import com.ashishbagdane.lib.base.eh.core.ErrorContext;
+import com.ashishbagdane.lib.base.eh.core.ErrorMessage;
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
 

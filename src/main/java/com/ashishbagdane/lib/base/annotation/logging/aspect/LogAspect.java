@@ -1,4 +1,4 @@
-package dev.ash.core.base.annotation.logging.aspect;
+package com.ashishbagdane.lib.base.annotation.logging.aspect;
 
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;

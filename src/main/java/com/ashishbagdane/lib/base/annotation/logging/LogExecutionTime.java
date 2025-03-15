@@ -1,4 +1,4 @@
-package dev.ash.core.base.annotation.logging;
+package com.ashishbagdane.lib.base.annotation.logging;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

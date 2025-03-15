@@ -1,4 +1,4 @@
-package dev.ash.core.base.eh.core;
+package com.ashishbagdane.lib.base.eh.core;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;

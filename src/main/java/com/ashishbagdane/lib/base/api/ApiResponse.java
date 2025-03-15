@@ -1,4 +1,4 @@
-package dev.ash.core.base.api;
+package com.ashishbagdane.lib.base.api;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
